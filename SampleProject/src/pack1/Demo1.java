@@ -6,5 +6,6 @@ public class Demo1 {
 		System.out.println("Hi Ranjith");
 		System.out.println("Hi Kranthi...");
 		System.out.println("hi hello");
+		System.out.println(111+4344);
 	}
 }
