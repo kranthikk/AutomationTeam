@@ -13,5 +13,6 @@ public class Demo1 {
 		System.out.println("demo on new file");
 		System.out.println("try for conflikt ranjith");
 		System.out.println("ranjit2");
+		System.out.println("123456");
 	}
 }
