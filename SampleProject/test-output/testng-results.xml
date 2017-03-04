@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26746" started-at="2017-03-03T03:29:04Z" finished-at="2017-03-03T03:29:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26746" started-at="2017-03-03T03:29:04Z" finished-at="2017-03-03T03:29:30Z">
+      <class name="pack4.ReadDataFromExcel">
+        <test-method status="PASS" signature="m()[pri:0, instance:pack4.ReadDataFromExcel@573f2bb1]" name="m" duration-ms="26626" started-at="2017-03-03T08:59:04Z" finished-at="2017-03-03T08:59:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m -->
+      </class> <!-- pack4.ReadDataFromExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
