@@ -1,0 +1,33 @@
+<suite name="suite1">
+	<test name="test1">
+
+		<!-- <packages> <package name="pack1" /> <package name="pack2" /> </packages> -->
+
+		<classes>
+			<class name="pack1.A">
+				<methods>
+					<include name="m1" />
+					<exclude name="m2" />
+				</methods>
+			</class>
+			
+			
+			<!-- <class name="pack1.B">
+				<methods>
+					<include name="m3" />
+					<include name="m4" />
+				</methods>
+			</class>
+			<class name="pack2.C">
+				<methods>
+					<include name="m6" />
+					<include name="m4" />
+				</methods>
+			</class>
+			 -->
+		</classes>
+
+	</test>
+
+
+</suite>
